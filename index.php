@@ -135,7 +135,7 @@
     <center style="margin:60px 0px 20px 0px;">
         <div class="container"
             style="backdrop-filter: blur(10px); box-shadow:3px 3px 15px black; border-radius:30px; padding:20px 0px 20px 0px;">
-            <h1 style="text-shadow:2px 2px 2px gray; color:white;"><b>Our Awesome Facilities</b></h1>
+            <h1 style="text-shadow:2px 2px 2px gray; color: #2986cc;"><b>Our Awesome Facilities</b></h1>
             <div class="container" style="margin:30px 0px 20px 0px;">
                 <div class="row">
                     <div class="col-lg">
